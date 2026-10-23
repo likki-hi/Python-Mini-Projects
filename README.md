@@ -1,74 +1,68 @@
-# Python-Developer-Internship-Projects
-This repository contains two beginner-friendly Python projects completed as part of my **Python Developer Internship at Arch Technologies**.
+# Python Projects 🐍
 
-The projects helped me practise Python fundamentals, user input, conditional statements, loops, lists, and basic application development.
+Welcome to my Python Projects repository! This repository contains beginner-friendly Python applications developed to practice programming fundamentals, problem-solving, and logical thinking.
 
-## Projects
+## 📌 Projects
 
-### 1. Dice Rolling Game 🎲
+### 1. 🎲 Dice Rolling Game
 
-A simple interactive game that generates random dice results and allows the user to roll again or exit.
+A simple Python game that simulates rolling a six-sided dice.
 
 **Features**
-- Generates random numbers using Python's `random` module.
-- Allows repeated rolls using a `while` loop.
-- Accepts user input to continue or stop the game.
-- Uses conditional statements to control the game flow.
+- Generates random numbers between 1 and 6.
+- Simulates a real dice roll.
+- Displays the result to the user.
+- Helps practice Python's random module.
 
-**Python concepts:** `random`, `while` loop, `if-else`, user input.
+**Technologies Used:** Python
 
-### 2. To-Do List Application ✅
+**How to Run**
+```bash
+python "dice rolling game.py"
+```
 
-A menu-driven console application for managing daily tasks and tracking completion progress.
+### 2. ✅ To-Do List Application
+
+A menu-driven Python application that helps users manage their daily tasks.
 
 **Features**
 - Add new tasks.
-- View tasks and their completion status.
+- View existing tasks.
 - Mark tasks as completed.
-- Remove tasks from the list.
-- Calculate task completion percentage.
-- Display progress using a text-based progress bar.
+- Remove tasks.
+- Track task progress.
+- Exit the application.
 
-**Python concepts:** Lists, Boolean values, loops, conditional statements, `enumerate()`, and percentage calculations.
+**Technologies Used:** Python
 
-## Technologies Used
+**How to Run**
+```bash
+python "to do list.py"
+```
 
-- Python
-- Python Standard Library
-- Visual Studio Code
-- Windows PowerShell
 
-## How to Run
+## 🎯 Learning Outcomes
 
-1. Install Python on your computer.
-2. Clone or download this repository.
-3. Open the project folder in Visual Studio Code or a terminal.
-4. Run the Python file for the project you want to try:
+- Understanding Python fundamentals.
+- Working with loops and conditional statements.
+- Using functions and user input.
+- Generating random numbers.
+- Building menu-driven applications.
+- Improving logical thinking and problem-solving skills.
 
-#1. python "dice rolling game.py"
-#2. python "to do list.py"
- 
+## 🛠️ Requirements
 
-## Skills Practised
+- Python 3.x
+- Any code editor, such as Visual Studio Code.
 
-- Python programming fundamentals
-- Loops and conditional logic
-- Lists and Boolean values
-- User input and basic input validation
-- Random number generation
-- Task management and progress calculation
-- Running and testing Python applications
+## 🚀 Future Improvements
 
-## Internship Details
+- Add a score and replay option to the Dice Rolling Game.
+- Add file handling to save tasks in the To-Do List Application.
+- Improve input validation and error handling.
 
-**Internship Domain:** Python Developer Internship  
-**Organization:** Arch Technologies  
-**Submission:** Month 1 — Project Submission
+## 👩‍💻 Author
 
-## Conclusion
+**Likitha Kalal**
 
-These projects strengthened my understanding of Python fundamentals and helped me gain practical experience in developing interactive console applications.
-
-I look forward to building more Python projects and improving my programming skills.
-
-**Author**: Likitha Kalal
+⭐ Thank you for visiting my repository!
